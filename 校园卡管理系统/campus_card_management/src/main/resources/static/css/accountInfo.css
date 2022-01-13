@@ -1,0 +1,17 @@
+body{  
+ padding-top: 30px;
+ padding-left: 50px;
+ padding-right: 50px;
+}
+.online_recharge{
+    font-size: 16px;
+    padding-right: 30px;
+}
+.online_recharge a{
+    float: right;
+}
+
+.to_activate{
+    font-size: 16px;
+    font-weight: bold;
+}

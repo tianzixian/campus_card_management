@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+.out{
+  width: 700px;
+}
+.out > p{
+  font-size: large;
+}
+.out > div{
+  margin-top: 25px;
+}
+
+/* .theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+} */

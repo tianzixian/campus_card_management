@@ -14,5 +14,3 @@
 SpringMVC / SpringBoot / JWT / Redis / MySQL / Mybatis / jQuery / JSTL
 
 
-![image](https://user-images.githubusercontent.com/82317354/157364979-86428ed3-2e14-4f46-9845-1894bc320b63.png)
-

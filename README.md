@@ -13,4 +13,5 @@
 **技术栈：**
 SpringMVC / SpringBoot / JWT / Redis / MySQL / Mybatis / jQuery / JSTL
 
-
+**部分功能展示：**
+![img](https://github.com/tolfinn/campus_card_management/blob/master/img%2Flogin.png)

@@ -14,9 +14,9 @@
 SpringMVC / SpringBoot / JWT / Redis / MySQL / Mybatis / jQuery / JSTL
 
 **部分功能展示：**
- <br/><span style="color:red">登录</span><br/>
+ <br/>登录<br/>
 ![img](https://github.com/tolfinn/campus_card_management/blob/master/img%2Flogin.png)
- <br/><font size="3" color="blue">充值</font><br/>
+ <br/>充值<br/>
  ![img](https://github.com/tolfinn/campus_card_management/blob/master/img%2Frecharge.png)
  <br/>管理员查询<br/>
  ![img](https://github.com/tolfinn/campus_card_management/blob/master/img%2Fsearch.png)
